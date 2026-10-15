@@ -1,0 +1,6 @@
+@DarkHeartOfAndaluria_HostAddress = http://localhost:5034
+
+GET {{DarkHeartOfAndaluria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
